@@ -1,12 +1,7 @@
-<img src="https://i.imgur.com/9qG9J9J.gif" width="100%" />
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&width=600&lines=Hi,+This+is+Anvar" />
 </h1>
 
-<p align="center">
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JS](https://skillicons.dev/icons?i=js) ![C](https://skillicons.dev/icons?i=c)
-</p>
 
 ---
 
@@ -19,11 +14,27 @@ Always testing new ideas, breaking things, and learning from the mess.
 ---
 
 
-### 🛠 Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c" />
-</p>
+### 🛠️ Technologies & Tools
 
+![HTML](https://skillicons.dev/icons?i=html "HTML")
+![CSS](https://skillicons.dev/icons?i=css "CSS")
+![JavaScript](https://skillicons.dev/icons?i=js "JavaScript")
+![C](https://skillicons.dev/icons?i=c "C")
+![Git](https://skillicons.dev/icons?i=git "Git")
+![GitHub](https://skillicons.dev/icons?i=github "GitHub")
+
+### Tech Stack
+![My Skills](https://skillicons.dev/icons?i=html,css,js,c,git,github)
+
+### 🔧 Tech Stack
+
+**Languages:** ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![C](https://skillicons.dev/icons?i=c)
+
+**Tools & Platforms:** ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
+
+## 🚀 Skills
+
+<img src="https://skillicons.dev/icons?i=html,css,js,c,git,github" alt="Tech Stack" />
 ---
 
 <p align="center">
