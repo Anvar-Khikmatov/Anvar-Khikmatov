@@ -23,18 +23,7 @@ Always testing new ideas, breaking things, and learning from the mess.
 ![Git](https://skillicons.dev/icons?i=git "Git")
 ![GitHub](https://skillicons.dev/icons?i=github "GitHub")
 
-### Tech Stack
-![My Skills](https://skillicons.dev/icons?i=html,css,js,c,git,github)
 
-### 🔧 Tech Stack
-
-**Languages:** ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![C](https://skillicons.dev/icons?i=c)
-
-**Tools & Platforms:** ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
-
-## 🚀 Skills
-
-<img src="https://skillicons.dev/icons?i=html,css,js,c,git,github" alt="Tech Stack" />
 ---
 
 <p align="center">
