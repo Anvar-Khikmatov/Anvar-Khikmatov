@@ -22,6 +22,10 @@ Always testing new ideas, breaking things, and learning from the mess.
 ![C](https://skillicons.dev/icons?i=c "C")
 ![Git](https://skillicons.dev/icons?i=git "Git")
 ![GitHub](https://skillicons.dev/icons?i=github "GitHub")
+![React](https://skillicons.dev/icons?i=react "React")
+![Vite](https://skillicons.dev/icons?i=vite "Vite")
+![Supabase](https://skillicons.dev/icons?i=supabase "Supabase")
+![PostgreSQL](https://skillicons.dev/icons?i=postgres "PostgreSQL")
 
 
 ---
