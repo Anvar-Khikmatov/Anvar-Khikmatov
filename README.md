@@ -6,10 +6,7 @@
 ---
 
 ### 💻 About Me
-Self-taught frontend developer, still learning and figuring things out.
-Currently going through The Odin Project and focusing on hands-on, project-based learning rather than just watching tutorials.
-I’m into clean code, experimenting with HTML, CSS, JS, and C, and trying to make my projects actually work, not just look nice.
-Always testing new ideas, breaking things, and learning from the mess.
+Currently working through The Odin Project with a focus on shipping real projects over following tutorials. I work primarily in JavaScript and React, with a background in C from systems-level projects. I learn by going deep, not just knowing what works but why it works at the memory, engine, and runtime level. I care more about understanding how things work than how they look on paper.
 
 ---
 
